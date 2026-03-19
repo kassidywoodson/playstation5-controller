@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact Info</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+
+<body>
+
+    <div class="topnav">
+        <a class="active" href="#user_guide.html"><i class="fa-solid fa-book"></i></a>
+        <a href="home_page.html"><i class="fa-solid fa-house"></i></a>
+        <a href="FAQ.html"><i class="fa-solid fa-circle-question"></i></a>
+        <a href="troubleshoot.html"><i class="fa-solid fa-wrench"></i></a>
+        <a href="contact.html"><i class="fa-solid fa-envelope"></i></a>
+    </div>
+
+    <h1>Contact Information</h1>
+    
+    <div class="container">
+    
+    <!-- LEFT: TEXT -->
+    <div class="text">
+        
+      
+        <p><strong></strong> PlayStation Support Hub: </p>
+        <p style="text-indent: 5em;"><a href="https://www.playstation.com/en-us/support/">https://www.playstation.com/en-us/support/</a>
+        <p><strong></strong> PlayStation Repair Page: </p>
+        <p style="text-indent: 5em;"><a href="https://repairs.playstation.com/s/?locale=en-us&language=en_US">https://repairs.playstation.com/s/?locale=en-us&language=en_US</a>
+        <p><strong></strong> PlayStation Contact Page: </p>
+        <p style="text-indent: 5em;"><a href="https://sonyinteractive.com/en/contact-us/">https://sonyinteractive.com/en/contact-us/</a>
+        
+    </div>
+</body>
+</html>
