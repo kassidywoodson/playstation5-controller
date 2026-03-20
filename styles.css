@@ -35,7 +35,10 @@
 .text {
     width: 60%;
 }
-
+.text_contact{
+  width: 600px; 
+  margin: 0 auto;
+}
 .diagram {
     width: 40%;
     position: relative;
