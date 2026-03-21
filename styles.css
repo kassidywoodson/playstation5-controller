@@ -64,3 +64,35 @@ h1 {
         -1px  1px 0 black,
          1px  1px 0 black;
 }
+.hero_image{
+    background-image: url("playstation_background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    position: relative;
+}
+
+.home_title{
+    color:white;
+    margin-bottom: 10px;
+    font-size: 3rem
+}
+
+.hero_p{
+    color: white;
+    background-color: #2da8c3;
+    padding: 15px;
+    border-radius: 10px;
+    max-width: 450px;
+    margin: 10px auto;
+
+    position: absolute;
+    bottom: 100px;
+    left: 40px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
