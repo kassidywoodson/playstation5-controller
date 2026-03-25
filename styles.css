@@ -6,6 +6,12 @@
     border-bottom: 2px solid black;
 }
 
+.contact_text{
+    top: 40px
+    width: 600px; 
+    margin: 0 auto;
+}
+
 .topnav a {
     color: white;
     padding: 14px 20px;
@@ -35,6 +41,7 @@
 .text {
     width: 60%;
 }
+
 .text_contact{
   width: 600px; 
   margin: 0 auto;
