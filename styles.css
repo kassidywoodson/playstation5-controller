@@ -109,3 +109,10 @@ h1 {
     left: 250px;
     padding: 20px;
 }
+.container_contact{
+    display: flex;
+    gap: 40px;
+    align-items: flex-start;
+    margin-bottom: 80px;
+    padding-top: 200px;;
+}
