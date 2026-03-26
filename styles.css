@@ -84,8 +84,10 @@ h1 {
 
 .home_title{
     color:white;
+    padding-top: 20px;
     margin-bottom: 10px;
-    font-size: 3rem
+    font-size: 3rem;
+    width: 75%;
 }
 
 .hero_p{
