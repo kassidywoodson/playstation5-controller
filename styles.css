@@ -7,7 +7,7 @@
 }
 
 .contact_text{
-    top: 40px
+    top: 40px;
     width: 600px; 
     margin: 0 auto;
 }
@@ -40,6 +40,8 @@
 
 .text {
     width: 60%;
+    padding: auto;
+    line-height: 1.25;
 }
 
 .text_contact{
@@ -109,10 +111,24 @@ h1 {
     left: 250px;
     padding: 20px;
 }
+
 .container_contact{
     display: flex;
     gap: 40px;
     align-items: flex-start;
     margin-bottom: 80px;
     padding-top: 200px;;
+}
+.guide_bold{
+    padding: 30px;
+}
+
+.text ul.user_list {
+    margin-top: 0.5em;
+    margin-bottom: .5em;
+}
+
+.text p strong {
+    display: block;
+    margin-top: 0.5em;
 }
