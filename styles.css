@@ -134,3 +134,20 @@ h1 {
     display: block;
     margin-top: 0.5em;
 }
+
+.troubleshooting-section
+{
+    margin-top: 30px;
+    padding-left: 20px;
+}
+
+.troubleshooting-section p
+{
+    padding-top: 15px;
+
+}
+
+.trouble-image
+{
+    position: center;
+}
