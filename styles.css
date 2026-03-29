@@ -146,8 +146,15 @@ h1 {
 .troubleshooting-section p
 {
     padding-top: 15px;
-
+    margin-top:15px;
+    margin-bottom: 15px;
 }
+
+.troubleshooting-section .user_list li
+{
+    margin-bottom: 15px;
+}
+
 
 .trouble-image
 {
