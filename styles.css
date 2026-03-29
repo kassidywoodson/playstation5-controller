@@ -152,6 +152,7 @@ h1 {
 .trouble-image
 {
     position: center;
+    justify-content: center;
 }
 
 .faq-section
