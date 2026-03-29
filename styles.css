@@ -102,6 +102,7 @@ h1 {
     position: absolute;
     bottom: 200px;
     left: 60px;
+    font-size: large;
 }
 *{
     margin: 0;
