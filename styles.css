@@ -96,12 +96,12 @@ h1 {
     background-color: #2da8c3;
     padding: 15px;
     border-radius: 10px;
-    max-width: 500px;
+    max-width: 800px;
     margin: 10px auto;
 
     position: absolute;
     bottom: 200px;
-    left: 40px;
+    left: 60px;
 }
 *{
     margin: 0;
